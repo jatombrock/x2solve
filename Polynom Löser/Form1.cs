@@ -12,7 +12,7 @@ namespace Polynom_Löser
 {
     public partial class Form1 : Form
     {
-            double ax;
+            double ax; //
             double bx;
             double c;
             int round = 10;
@@ -25,7 +25,7 @@ namespace Polynom_Löser
 
         public void zeropoint()
         {
-
+            
             bool undernull = false;
 
             double top1;

@@ -7,7 +7,7 @@
     <ProjectGuid>{D4076839-B80C-47FB-9410-B0E3DE89EB33}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>x2solve</RootNamespace>
+    <RootNamespace>x2solve_</RootNamespace>
     <AssemblyName>x2solve</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
